@@ -1,4 +1,5 @@
 # 计算机宝藏级别电子书分享  
+## 目前已收录了包含前端、C、C++、Java、Python、Go、数据结构与算法、计算机系统知识、计算机网络、操作系统、Linux、数据库、汇编语言、设计模式、笔试面试、git 等领域经典作品的电子书。
 
 ## 👋你好呀朋友，我是沈七，一名还在升级打怪中的计算机大二学生。
 
@@ -10,17 +11,26 @@
 
 ## 🌟如果喜欢的话，欢迎start~
 
-## 知名大学计算机系开源课程收录：
 
-- [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)  
-- [清华大学计算机系课程攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/)  
-- [上海交通大学课程资料分享](https://github.com/kxxwz/SJTU-Courses)   
-- [北京航空航天大学(北航)课程作业资料共享计划](https://github.com/TheBloodthirster/BUAA_Course_Sharing)  
-- [华北电力大学计算机系课程攻略](https://github.com/IammyselfYBX/NCEPU_CS_course)  
-- [北京邮电大学计算机考研信息汇总](https://ningzimu.github.io/See_you_in_BUPT/) 
+## 1 前端
 
+-  [深入浅出Node.js](https://pan.baidu.com/s/15IWDxYdXP4OcyluBIKLCWw )  提取码：nydl 
+-  [疯狂ajax讲义](https://pan.baidu.com/s/1K2UQyUbMe_oegGg-VHTM1w )  提取码：10do  
+-  [nodebook](https://pan.baidu.com/s/1yxVKGe5lwywNnvU-M5G8cQ )  提取码：eo8x
+-  [Node.js开发指南](https://pan.baidu.com/s/1V3DQAbzLbsHTwBphjUwsEQ )  提取码：2al6 
+-  [jQuery权威指南](https://pan.baidu.com/s/1bUNWoXHRjPBxc9Wyf1lvGA  )  提取码：zd79 
+-  [jQuery技术内幕 深入解析jQuery架构设计与实现原理](https://pan.baidu.com/s/1e8RkLrhGauMZ17lPCvQiuQ)  提取码：5nmk 
+-  [jQuery高级编程，中文完整扫描版](https://pan.baidu.com/s/1iFPuyngbCf7kUhhDnZKSXg  )  提取码：92eh 
+-  [javascript高级程序设计](https://pan.baidu.com/s/15llgSGXVBF-S9aiIcNe46Q )  提取码：85r1  
+-  [Javascript 高效图形编程-中文版](https://pan.baidu.com/s/1-vm-gzlWF4y4pMhgS-hzww )  提取码：gur3 
+-  [HTML5与CSS3基础教程（第8版）](https://pan.baidu.com/s/1ePWPXYeNI_RgCULXgVhJaQ )  提取码：qqr8 
+-  [HTML5揭秘](https://pan.baidu.com/s/1ni-7s0lrnzAyMdxnN4GWpg  )  提取码：stzj 
+-  [Bootstrap实战](https://pan.baidu.com/s/1LXkMA1YOhB-92DDDSpj8vw )  提取码：85ex 
+-  [【JavaScript高级程序设计（第3版）】中文 高清](https://pan.baidu.com/s/1hBpY37JTAI8i_UOJ_mdVcw  )  提取码：hfkq 
+-  [JavaScript.DOM编程艺术（第2版）](https://pan.baidu.com/s/10Vgo1xnN4CdipsFKRyxixg )  提取码：5hjh  
+-  [[HTML与CSS入门经典(第7版)].（美）奥利弗，（美）莫里森.扫描版](https://pan.baidu.com/s/1L7Fr5vanqXPtqaobMruTXg )  提取码：dcx2 
 
-## 1 C语言
+## 2 C语言
 
 -  [征服C指针](https://pan.baidu.com/s/1e0zPOp-fhGKKKiILGHx_Ew )  提取码：wwcd 
 -  [经典C程序100例](https://pan.baidu.com/s/10HoWoPO_Iz0FVqMhpfP2rQ  )  提取码：t8oe   
@@ -51,7 +61,7 @@
 -  [[C语言必须知道的300个问题].明日科技.扫描版](https://pan.baidu.com/s/1NgAyb0DoAq3zQvAQI53GXA  )  提取码：bn80  
 
 
-## 2 C++
+## 3 C++
 
 
 -  [第二套、侯捷老师全系列八部曲 - 手把手教你进阶系列](https://pan.baidu.com/s/1rNfHasapQuwFf_X0nxfJOQ )  提取码：rb16 
@@ -98,7 +108,7 @@
 -  [C++ Primer Plus](https://pan.baidu.com/s/1X-p7BY5n2SR9_QF5YDyULg )  提取码：i0p7 
 
 
-## 3 Java
+## 4 Java
 
 -  [深入剖析Tomcat](https://pan.baidu.com/s/1IunVEAC57UOFqQISJb1MRw )  提取码：59wb 
 -  [深入理解Spark：核心思想与源码分析](https://pan.baidu.com/s/14GBUxLt5owx3szh_JvKPAg )  提取码：cij9 
@@ -164,7 +174,7 @@
 -  [[Flex.3实战].（美）艾哈迈德，（美）赫希，（美）阿比德.扫描版](https://pan.baidu.com/s/16KFFPIUGCw6rRLU59dfkLg  )  提取码：jdnt 
 
 
-## 4 Python
+## 5 Python
 
 -  [《Python数据分析14天入门训练营》课程资料](https://pan.baidu.com/s/1jld_YSqFRlDSl07B45PQ5A  )  提取码：24w5 
 -  [增长黑客_创业公司的用户与收入增长秘籍 - 范冰](https://pan.baidu.com/s/1trQBHZynq6iYgQLZn0glfg )  提取码：1mil
@@ -229,7 +239,7 @@
 -  [A Byte of Python3(中文版)](https://pan.baidu.com/s/1daqXTHLW1Yuho6YGuyW3Kg )  提取码：m5jk 
 -  [《触手可及的大数据分析工具：Tableau案例集》数据源](https://pan.baidu.com/s/1jsS-TO6opRDOTXHF_0nQ9Q )  提取码：ui1b
 
-## 5 Go
+## 6 Go
 
 -  [Go并发编程实战](https://pan.baidu.com/s/18YOmYXd65ZM1w6nKMhyTpw )  提取码：59m6 
 -  [Go语言实战](https://pan.baidu.com/s/10SsqtZIZnj8n0EiYr8qHQA )  提取码：dw0z 
@@ -242,7 +252,7 @@
 
 
 
-## 6 数据结构与算法
+## 7 数据结构与算法
 
 -  [严蔚敏：数据结构题集(C语言版)](https://pan.baidu.com/s/12ACOBkG1hDfZLPpDRqDQfw )  提取码：sr0k 
 -  [挑战程序设计竞赛(第2版)](https://pan.baidu.com/s/1v_Y7aJnaHPTiirMNyNxxzg  )  提取码：5nyy 
@@ -280,7 +290,7 @@
 -  [cookbook-LeetCode](https://pan.baidu.com/s/12IDLcj5xDAfp66MdIjr69w  )  提取码：mbjx 
 
 
-## 7 计算机系统知识
+## 8 计算机系统知识
 
 -  [计算机组成与设计：硬件_软件接口](https://pan.baidu.com/s/1YJISmqHpnGdO2tz27FfWMw  )  提取码：y35y 
 -  [计算机是怎样跑起来的](https://pan.baidu.com/s/1l12egVH4bRPZCuesQhPpNw )  提取码：aqhp  
@@ -291,7 +301,7 @@
 -  [编码：隐匿在计算机软硬件背后的语言英文版](https://pan.baidu.com/s/1Rrjv7hGNmuLtD6gYBNkuyw  )  提取码：g6in 
 
 
-## 8 计算机网路
+## 9 计算机网络
 
 -  [网络是怎样连接的 (图灵程序设计丛书)](https://pan.baidu.com/s/1T5lTH7T_LNLsh9X0yQKqLQ  )  提取码：pmhy   
 -  [图解TCPIP(第5版)](https://pan.baidu.com/s/1jsiabyTcvMpaUpJWOf7kDA )  提取码：j09w 
@@ -313,7 +323,7 @@
 -  [Computer Networking_ A Top-down Approach](https://pan.baidu.com/s/17oZK_jLBqq9aE4CIHA0UVw )  提取码：3i1q 
 
 
-## 9 操作系统
+## 10 操作系统
 
 -  [深入理解计算机系统 第3版](https://pan.baidu.com/s/1mhfGB1W79ANWMBH4-L3H9g  )  提取码：0vyr 
 -  [操作系统真象还原](https://pan.baidu.com/s/15sE9QPhlmdPovo0sSsTQ2g  )  提取码：wzwl 
@@ -333,7 +343,7 @@
 -  [30天自制操作系统 (图灵程序设计丛书)](https://pan.baidu.com/s/1F7_aRjuDEqPsqdc0onxfBA )  提取码：ht4l  
 -  [Computer Systems_ A Programmer's Perspective](https://pan.baidu.com/s/1s9jnHvquefDZ6umoo9DOLg  )  提取码：4qc4 
 
-## 10 Linux
+## 11 Linux
 
 -  [深入Linux内核架构 (图灵程序设计丛书·LinuxUNIX系列)](https://pan.baidu.com/s/1NHOhAsqWZKc_T-fgAUdasA  )  提取码：1h66 
 -  [鸟哥的Linux私房菜基础篇和服务器篇](https://pan.baidu.com/s/14zOVy3cffprJRKYn3GJdiQ )  提取码：rszx
@@ -361,13 +371,6 @@
 
 
 
-## 11 汇编语言
-
--  [老“码”识途 从机器码到框架的系统观逆向修炼之路](https://pan.baidu.com/s/1PaTbBKpgSUp1jMx2dUijHw  )  提取码：dggc 
--  [汇编语言_王爽及相关资料](https://pan.baidu.com/s/1QzIdEh-VHaPP6XpGfaQ1Eg  )  提取码：cocu 
--  [x86汇编语言：从实模式到保护模式_书籍及配套资料](https://pan.baidu.com/s/1SM5nwv4CuLk6-GqtZKtxhw)  提取码：pq7k 
--  [80x86汇编语言程序设计教程](https://pan.baidu.com/s/1LsdD8mgaFUJQDco_OxTPkQ )  提取码：4hpy 
-
 
 ## 12 数据库
 
@@ -377,7 +380,7 @@
 -  [深入浅出MySQL++数据库开发、优化与管理维护+第2版+唐汉明](https://pan.baidu.com/s/11Pxb89VnWTsIefKLs8D4mg )  提取码：zjt8  
 -  [高性能MySQL（第3版）](https://pan.baidu.com/s/1KBqdWuB2Xg78FGKd8gusVg )  提取码：rghv
 -  [分布式数据库系统原理.第3版](https://pan.baidu.com/s/1u2lq6T5ryyr4CoJbYsmihA  )  提取码：arpa  
--  [分布式数据库系统  大数据时代新型数据库技术__于戈等编著_北京：机械工业出版社](https://pan.baidu.com/s/1T3vKI_LQM3eiMavkLMv88w )  提取码：11nz 
+-  [分布式数据库系统  大数据时代新型数据库技术__于戈等编著](https://pan.baidu.com/s/1T3vKI_LQM3eiMavkLMv88w )  提取码：11nz 
 -  [SQL查询的艺术](https://pan.baidu.com/s/1u72WTSU6Qdi4hG4D9BqUNw )  提取码：lwrz  
 -  [SQLite 权威指南](https://pan.baidu.com/s/1yN31qm6uv9jKt0YY71i2tA )  提取码：2d4q  
 -  [Redis实战](https://pan.baidu.com/s/1k1hQuJaeBAJEULFxLPezwA  )  提取码：8mub 
@@ -399,23 +402,13 @@
 -  [head first design patterns](https://pan.baidu.com/s/1tF9mOnn1vFcFfaBLGTVuwQ )  提取码：oexz
 -  [C++版常见设计模式解析与实现](https://pan.baidu.com/s/1FqQppZl7PvJMyfyriHARRA )  提取码：ikay 
 
-## 14 前端
 
--  [深入浅出Node.js](https://pan.baidu.com/s/15IWDxYdXP4OcyluBIKLCWw )  提取码：nydl 
--  [疯狂ajax讲义](https://pan.baidu.com/s/1K2UQyUbMe_oegGg-VHTM1w )  提取码：10do  
--  [nodebook](https://pan.baidu.com/s/1yxVKGe5lwywNnvU-M5G8cQ )  提取码：eo8x
--  [Node.js开发指南](https://pan.baidu.com/s/1V3DQAbzLbsHTwBphjUwsEQ )  提取码：2al6 
--  [jQuery权威指南](https://pan.baidu.com/s/1bUNWoXHRjPBxc9Wyf1lvGA  )  提取码：zd79 
--  [jQuery技术内幕 深入解析jQuery架构设计与实现原理](https://pan.baidu.com/s/1e8RkLrhGauMZ17lPCvQiuQ)  提取码：5nmk 
--  [jQuery高级编程，中文完整扫描版](https://pan.baidu.com/s/1iFPuyngbCf7kUhhDnZKSXg  )  提取码：92eh 
--  [javascript高级程序设计](https://pan.baidu.com/s/15llgSGXVBF-S9aiIcNe46Q )  提取码：85r1  
--  [Javascript 高效图形编程-中文版](https://pan.baidu.com/s/1-vm-gzlWF4y4pMhgS-hzww )  提取码：gur3 
--  [HTML5与CSS3基础教程（第8版）](https://pan.baidu.com/s/1ePWPXYeNI_RgCULXgVhJaQ )  提取码：qqr8 
--  [HTML5揭秘](https://pan.baidu.com/s/1ni-7s0lrnzAyMdxnN4GWpg  )  提取码：stzj 
--  [Bootstrap实战](https://pan.baidu.com/s/1LXkMA1YOhB-92DDDSpj8vw )  提取码：85ex 
--  [【JavaScript高级程序设计（第3版）】中文 高清](https://pan.baidu.com/s/1hBpY37JTAI8i_UOJ_mdVcw  )  提取码：hfkq 
--  [JavaScript.DOM编程艺术（第2版）](https://pan.baidu.com/s/10Vgo1xnN4CdipsFKRyxixg )  提取码：5hjh  
--  [[HTML与CSS入门经典(第7版)].（美）奥利弗，（美）莫里森.扫描版](https://pan.baidu.com/s/1L7Fr5vanqXPtqaobMruTXg )  提取码：dcx2 
+## 14 汇编语言
+
+-  [老“码”识途 从机器码到框架的系统观逆向修炼之路](https://pan.baidu.com/s/1PaTbBKpgSUp1jMx2dUijHw  )  提取码：dggc 
+-  [汇编语言_王爽及相关资料](https://pan.baidu.com/s/1QzIdEh-VHaPP6XpGfaQ1Eg  )  提取码：cocu 
+-  [x86汇编语言：从实模式到保护模式_书籍及配套资料](https://pan.baidu.com/s/1SM5nwv4CuLk6-GqtZKtxhw)  提取码：pq7k 
+-  [80x86汇编语言程序设计教程](https://pan.baidu.com/s/1LsdD8mgaFUJQDco_OxTPkQ )  提取码：4hpy 
 
 ## 15 笔试面试
 
@@ -477,7 +470,7 @@
 -  [Discrete Mathematics and Its Applications](https://pan.baidu.com/s/1JeUR9gGMAd6WvIvyOo3kBQ )  提取码：yjum
 -  [Computational Complexity_ A Modern Approach](https://pan.baidu.com/s/1y-ldbfKrUbw7gf1sV899_w  )  提取码：5wo8 
 
-持续更新中。。。。
+# 😊持续更新中~，如果小伙伴有新的资源欢迎提PR~
 
 
 
